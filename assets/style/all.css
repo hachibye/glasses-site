@@ -381,19 +381,24 @@
   .product-list li {
     margin: 30px 30px; }
   .product-list h5 {
-    text-transform: uppercase; }
+    text-transform: uppercase;
+    margin-bottom: 5px; }
   .product-list h6 {
     text-transform: uppercase;
-    color: #AA0601; }
+    color: #AA0601;
+    margin-bottom: 5px; }
   .product-list .box1 {
     width: 20px;
     height: 20px;
     background-color: #5F3E2D;
-    border-radius: 20%; }
+    border-radius: 20%;
+    margin-right: 5px; }
   .product-list .box2 {
     width: 20px;
     height: 20px;
     background-color: #B75929;
     border-radius: 20%; }
+  .product-list .box-flex {
+    display: flex; }
 
 /*# sourceMappingURL=all.css.map */
